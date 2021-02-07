@@ -1,0 +1,12 @@
+target/
+out/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### App specific
+*.log
+*.bak
